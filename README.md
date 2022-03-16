@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Naomi
+#### Design and Development
 
-<!--
-**Naomishiko/Naomishiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hobbies:
+[programming, decorating, interior design, image editing, 
+ music, basketball, photography, makeup, working-out, traveling, 
+ audio reading, and journaling]
 
-Here are some ideas to get you started:
+Skills: 💻 CSS / HTML / JS / REACT 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on My own website 
+- - 📫 How to reach me: njivoon@gmail.com
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naomishiko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]( https://www.linkedin.com/in/naomi-gathuri-47456a21b/)
