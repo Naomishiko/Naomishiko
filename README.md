@@ -6,7 +6,7 @@ Hobbies:
  music, basketball, photography, makeup, working-out, traveling, 
  audio reading, and journaling]
 
-Skills: 💻 CSS / HTML / JS / REACT 
+Skills: 💻  CSS / HTML / JS / REACT 
 
 - 🔭 I’m currently working on My own website 
 - - 📫 How to reach me: njivoon@gmail.com
