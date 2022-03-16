@@ -2,7 +2,7 @@
 #### Design and Development
 
 Hobbies:
-[programming, decorating, interior design, image editing, 
+[programming, decorating, interior designer, image editing, 
  music, basketball, photography, makeup, working-out, traveling, 
  audio reading, and journaling]
 
