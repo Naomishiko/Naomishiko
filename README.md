@@ -8,7 +8,7 @@ Hobbies:
 
 Skills: 💻  CSS / HTML / JS / REACT 
 
-- 🔭 I’m currently working on My own website 
+- 🔭 I’m currently working on my own website 
 - - 📫 How to reach me: njivoon@gmail.com
 
 
