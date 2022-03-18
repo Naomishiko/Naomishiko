@@ -3,8 +3,7 @@
 
 Hobbies:
 [programming, decorating, interior designer, image editing, 
- music, basketball, photography, makeup, working-out, traveling, 
- audio reading, and journaling]
+ music, basketball, photography, makeup, working-out, traveling, reading, and journaling]
 
 Skills: 💻  CSS / HTML / JS / REACT 
 
