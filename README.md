@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Naomi
+### Hi, I'm Naomi!
+👩🏾‍💻
 #### Design and Development
 
 ![IMG_3326](https://user-images.githubusercontent.com/98294096/161215014-8f399f4a-8cf2-4a94-b22e-ad47fc8bf734.jpg)
