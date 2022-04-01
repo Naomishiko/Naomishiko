@@ -1,13 +1,8 @@
 ### Hi there 👋, I'm Naomi
 #### Design and Development
 
+![IMG_3326](https://user-images.githubusercontent.com/98294096/161215014-8f399f4a-8cf2-4a94-b22e-ad47fc8bf734.jpg)
 
-
-Hobbies:
-[programming, decorating, interior designer, image editing, 
- music, basketball, photography, makeup, working-out, traveling, reading, and journaling]
-
-Skills: 💻  CSS / HTML / JS / REACT 
 
 - 🔭 I’m currently working on my own website 
 - - 📫 How to reach me: njivoon@gmail.com
@@ -18,4 +13,3 @@ Skills: 💻  CSS / HTML / JS / REACT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![IMG_3326](https://user-images.githubusercontent.com/98294096/161215014-8f399f4a-8cf2-4a94-b22e-ad47fc8bf734.jpg)
